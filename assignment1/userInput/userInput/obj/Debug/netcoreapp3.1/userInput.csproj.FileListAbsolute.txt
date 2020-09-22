@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.exe
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.deps.json
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.dll
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.pdb
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.dll
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.pdb
+D:\ajay_promaterial\c sharp\assignment1\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.genruntimeconfig.cache

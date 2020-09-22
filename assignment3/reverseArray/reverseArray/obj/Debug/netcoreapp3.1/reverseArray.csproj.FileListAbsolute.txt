@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.exe
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.deps.json
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.dll
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.pdb
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.dll
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.pdb
+D:\ajay_promaterial\c sharp\assignment3\reverseArray\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.exe
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.deps.json
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.dll
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.pdb
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.dll
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.pdb
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.genruntimeconfig.cache
+D:\ajay_promaterial\c sharp\assignment2\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.csprojAssemblyReference.cache

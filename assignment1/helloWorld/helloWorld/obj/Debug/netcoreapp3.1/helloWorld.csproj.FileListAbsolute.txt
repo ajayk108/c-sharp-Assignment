@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.exe
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.deps.json
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.dll
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.pdb
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.dll
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.pdb
+D:\ajay_promaterial\c sharp\assignment1\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.genruntimeconfig.cache

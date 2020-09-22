@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cmdLineArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "some command line arguments are there"
+    }
+  }
+}

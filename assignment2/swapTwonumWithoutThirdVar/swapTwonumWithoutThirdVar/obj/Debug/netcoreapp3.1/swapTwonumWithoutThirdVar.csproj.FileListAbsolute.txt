@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\bin\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.exe
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\bin\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.deps.json
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\bin\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\bin\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\bin\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.dll
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\bin\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.pdb
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\obj\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\obj\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\obj\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\obj\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\obj\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.dll
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\obj\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.pdb
+D:\ajay_promaterial\c sharp\assignment2\swapTwonumWithoutThirdVar\swapTwonumWithoutThirdVar\obj\Debug\netcoreapp3.1\swapTwonumWithoutThirdVar.genruntimeconfig.cache

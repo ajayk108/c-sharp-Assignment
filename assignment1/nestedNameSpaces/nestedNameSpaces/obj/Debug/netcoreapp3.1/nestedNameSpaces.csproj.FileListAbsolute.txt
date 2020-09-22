@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\bin\Debug\netcoreapp3.1\nestedNameSpaces.exe
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\bin\Debug\netcoreapp3.1\nestedNameSpaces.deps.json
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\bin\Debug\netcoreapp3.1\nestedNameSpaces.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\bin\Debug\netcoreapp3.1\nestedNameSpaces.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\bin\Debug\netcoreapp3.1\nestedNameSpaces.dll
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\bin\Debug\netcoreapp3.1\nestedNameSpaces.pdb
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\obj\Debug\netcoreapp3.1\nestedNameSpaces.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\obj\Debug\netcoreapp3.1\nestedNameSpaces.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\obj\Debug\netcoreapp3.1\nestedNameSpaces.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\obj\Debug\netcoreapp3.1\nestedNameSpaces.dll
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\obj\Debug\netcoreapp3.1\nestedNameSpaces.pdb
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\obj\Debug\netcoreapp3.1\nestedNameSpaces.genruntimeconfig.cache
+D:\ajay_promaterial\c sharp\assignment1\nestedNameSpaces\nestedNameSpaces\obj\Debug\netcoreapp3.1\nestedNameSpaces.csprojAssemblyReference.cache

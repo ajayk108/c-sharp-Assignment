@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\obj\Debug\netcoreapp3.1\EnumClasses.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\obj\Debug\netcoreapp3.1\EnumClasses.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\obj\Debug\netcoreapp3.1\EnumClasses.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\obj\Debug\netcoreapp3.1\EnumClasses.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\bin\Debug\netcoreapp3.1\EnumClasses.exe
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\bin\Debug\netcoreapp3.1\EnumClasses.deps.json
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\bin\Debug\netcoreapp3.1\EnumClasses.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\bin\Debug\netcoreapp3.1\EnumClasses.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\bin\Debug\netcoreapp3.1\EnumClasses.dll
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\bin\Debug\netcoreapp3.1\EnumClasses.pdb
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\obj\Debug\netcoreapp3.1\EnumClasses.dll
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\obj\Debug\netcoreapp3.1\EnumClasses.pdb
+D:\ajay_promaterial\c sharp\assignment3\EnumClasses\EnumClasses\obj\Debug\netcoreapp3.1\EnumClasses.genruntimeconfig.cache

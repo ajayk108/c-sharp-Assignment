@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\obj\Debug\netcoreapp3.1\paraPassingTech.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\obj\Debug\netcoreapp3.1\paraPassingTech.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\obj\Debug\netcoreapp3.1\paraPassingTech.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\obj\Debug\netcoreapp3.1\paraPassingTech.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\bin\Debug\netcoreapp3.1\paraPassingTech.exe
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\bin\Debug\netcoreapp3.1\paraPassingTech.deps.json
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\bin\Debug\netcoreapp3.1\paraPassingTech.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\bin\Debug\netcoreapp3.1\paraPassingTech.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\bin\Debug\netcoreapp3.1\paraPassingTech.dll
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\bin\Debug\netcoreapp3.1\paraPassingTech.pdb
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\obj\Debug\netcoreapp3.1\paraPassingTech.dll
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\obj\Debug\netcoreapp3.1\paraPassingTech.pdb
+D:\ajay_promaterial\c sharp\assignment3\paraPassingTech\paraPassingTech\obj\Debug\netcoreapp3.1\paraPassingTech.genruntimeconfig.cache

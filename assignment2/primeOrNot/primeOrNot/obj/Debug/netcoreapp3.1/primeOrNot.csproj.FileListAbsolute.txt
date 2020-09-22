@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\bin\Debug\netcoreapp3.1\primeOrNot.exe
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\bin\Debug\netcoreapp3.1\primeOrNot.deps.json
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\bin\Debug\netcoreapp3.1\primeOrNot.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\bin\Debug\netcoreapp3.1\primeOrNot.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\bin\Debug\netcoreapp3.1\primeOrNot.dll
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\bin\Debug\netcoreapp3.1\primeOrNot.pdb
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\obj\Debug\netcoreapp3.1\primeOrNot.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\obj\Debug\netcoreapp3.1\primeOrNot.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\obj\Debug\netcoreapp3.1\primeOrNot.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\obj\Debug\netcoreapp3.1\primeOrNot.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\obj\Debug\netcoreapp3.1\primeOrNot.dll
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\obj\Debug\netcoreapp3.1\primeOrNot.pdb
+D:\ajay_promaterial\c sharp\assignment2\primeOrNot\primeOrNot\obj\Debug\netcoreapp3.1\primeOrNot.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\bin\Debug\netcoreapp3.1\jaggedArrays.exe
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\bin\Debug\netcoreapp3.1\jaggedArrays.deps.json
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\bin\Debug\netcoreapp3.1\jaggedArrays.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\bin\Debug\netcoreapp3.1\jaggedArrays.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\bin\Debug\netcoreapp3.1\jaggedArrays.dll
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\bin\Debug\netcoreapp3.1\jaggedArrays.pdb
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\obj\Debug\netcoreapp3.1\jaggedArrays.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\obj\Debug\netcoreapp3.1\jaggedArrays.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\obj\Debug\netcoreapp3.1\jaggedArrays.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\obj\Debug\netcoreapp3.1\jaggedArrays.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\obj\Debug\netcoreapp3.1\jaggedArrays.dll
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\obj\Debug\netcoreapp3.1\jaggedArrays.pdb
+D:\ajay_promaterial\c sharp\assignment3\jagged\jagged\obj\Debug\netcoreapp3.1\jaggedArrays.genruntimeconfig.cache

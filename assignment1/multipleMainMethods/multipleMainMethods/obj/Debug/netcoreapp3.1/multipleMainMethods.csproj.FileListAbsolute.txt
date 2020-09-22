@@ -1,0 +1,12 @@
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\bin\Debug\netcoreapp3.1\multipleMainMethods.exe
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\bin\Debug\netcoreapp3.1\multipleMainMethods.deps.json
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\bin\Debug\netcoreapp3.1\multipleMainMethods.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\bin\Debug\netcoreapp3.1\multipleMainMethods.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\bin\Debug\netcoreapp3.1\multipleMainMethods.dll
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\bin\Debug\netcoreapp3.1\multipleMainMethods.pdb
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\obj\Debug\netcoreapp3.1\multipleMainMethods.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\obj\Debug\netcoreapp3.1\multipleMainMethods.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\obj\Debug\netcoreapp3.1\multipleMainMethods.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\obj\Debug\netcoreapp3.1\multipleMainMethods.dll
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\obj\Debug\netcoreapp3.1\multipleMainMethods.pdb
+D:\ajay_promaterial\c sharp\assignment1\multipleMainMethods\multipleMainMethods\obj\Debug\netcoreapp3.1\multipleMainMethods.genruntimeconfig.cache

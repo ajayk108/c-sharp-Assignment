@@ -1,0 +1,13 @@
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\bin\Debug\netcoreapp3.1\cmdLineArgs.exe
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\bin\Debug\netcoreapp3.1\cmdLineArgs.deps.json
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\bin\Debug\netcoreapp3.1\cmdLineArgs.runtimeconfig.json
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\bin\Debug\netcoreapp3.1\cmdLineArgs.runtimeconfig.dev.json
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\bin\Debug\netcoreapp3.1\cmdLineArgs.dll
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\bin\Debug\netcoreapp3.1\cmdLineArgs.pdb
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\obj\Debug\netcoreapp3.1\cmdLineArgs.csprojAssemblyReference.cache
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\obj\Debug\netcoreapp3.1\cmdLineArgs.AssemblyInfoInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\obj\Debug\netcoreapp3.1\cmdLineArgs.AssemblyInfo.cs
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\obj\Debug\netcoreapp3.1\cmdLineArgs.csproj.CoreCompileInputs.cache
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\obj\Debug\netcoreapp3.1\cmdLineArgs.dll
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\obj\Debug\netcoreapp3.1\cmdLineArgs.pdb
+D:\ajay_promaterial\c sharp\assignment1\cmdLineArgs\cmdLineArgs\obj\Debug\netcoreapp3.1\cmdLineArgs.genruntimeconfig.cache
